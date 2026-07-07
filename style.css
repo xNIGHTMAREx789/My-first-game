@@ -1,0 +1,53 @@
+#main {
+ text-align: center;
+} 
+p {
+  color: black;
+}
+#dont button{
+  display: none;
+  margin-top: 12px ;
+  color: white;
+  background-color: red;
+  padding: 6px;
+  border-radius: 12px;
+}
+#Btn1 {
+  color: white;
+  background-color: green;
+  padding: 6px;
+  border-radius: 12px;
+  margin-top: 12px;
+}
+body{
+  background-image: url('sonic.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1 {
+  color: red;
+  text-align: center;
+  margin-top:20px;
+  padding-left:20px;
+  padding-right:150px;
+}
+input {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);ٍ
+}
+p {
+  color: red;
+}
+h3 {
+  color: white;
+  position: absolute;
+  top: 20px;
+  right:20px;
+  margin: 0;
+  padding: 10px;
+}
